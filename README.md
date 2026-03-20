@@ -147,3 +147,5 @@ Adding a new check module is straightforward:
 ## License
 
 MIT License — see `LICENSE`
+
+**## Expected Output**
