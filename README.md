@@ -149,3 +149,13 @@ Adding a new check module is straightforward:
 MIT License — see `LICENSE`
 
 **## Expected Output**
+
+![Image name](./assets/1.png)
+
+![Image name](./assets/2.png)
+
+![Image name](./assets/3.png)
+
+![Image name](./assets/4.png)
+
+![Image name](./assets/5.png)
